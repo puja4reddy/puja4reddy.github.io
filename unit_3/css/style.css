@@ -1,0 +1,23 @@
+body{
+
+	text-align: center;
+    background-size: cover;
+    font-family: Helvetica;
+    background-color: Black;
+    color: #fff;
+
+
+
+} 
+
+hr{
+	width: 500px;
+}
+
+p{
+	font-size: 50;
+}
+ul{
+	text-align: center;
+	list-style-type: none;
+}
